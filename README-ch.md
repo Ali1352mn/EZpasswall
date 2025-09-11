@@ -4,7 +4,7 @@
 
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**简体中文**](README-ch.md) | [**Русский**](README_ru.md)
 
-# 警告： 
+# 🔴警告： 🔴
 # 此代码已过时，不再更新！请使用此链接获取新版本：
 
 # https://github.com/peditx/PeDitXOs
