@@ -4,7 +4,7 @@
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**简体中文**](README-ch.md) | [**Русский**](README_ru.md)
 
 
-# هشدار
+# 🔴هشدار: 🔴
 # این کد قدیمی است و دیگر آپدیت نمی‌شود! برای دریافت نسخه‌های جدید از این لینک استفاده کنید:
 
 # https://github.com/peditx/PeDitXOs
