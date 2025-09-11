@@ -4,6 +4,11 @@
 
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**简体中文**](README-ch.md) | [**Русский**](README_ru.md)
 
+# 警告： 
+# 此代码已过时，不再更新！请使用此链接获取新版本：
+
+# https://github.com/peditx/PeDitXOs
+
 ### EZPasswall脚本是什么？
 
 该脚本允许您使用现代化和简洁的界面轻松优化OpenWrt设备，支持OpenVPN、Xray、V2Ray、WireGuard、Cloudflare Warp等协议。您还可以单独安装或同时安装Passwall 1和Passwall 2，以享受稳定的互联网连接和分段的、连续的流量。该脚本将随着时间的推移不断改进。
