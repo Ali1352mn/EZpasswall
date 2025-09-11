@@ -3,7 +3,7 @@
 
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**简体中文**](README-ch.md) | [**Русский**](README_ru.md)
 
-# Warning:
+# 🔴Warning: 🔴
 # This code is outdated and is no longer being updated! For new versions, please use this link:
 
 # https://github.com/peditx/PeDitXOs
