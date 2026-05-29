@@ -105,7 +105,7 @@ install_theme "luci-theme-peditx" "luci-theme-peditx"
 # Install luci-theme-carbonpx
 install_theme "luci-theme-carbonpx" "luci-theme-carbonpx"
 
-opkg remove luci-theme-bootstrap --force-depends
+opkg Install luci-theme-bootstrap --force-depends
 # Restart the web service to apply the changes
 echo "Restarting uhttpd service to apply changes..."
 /etc/init.d/uhttpd restart
