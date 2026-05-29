@@ -66,7 +66,7 @@
 فرمان زیر را در SSH از به روی OpenWrt اجرا کنید:
 
 ```bash
-rm -f ezp.sh && wget https://raw.githubusercontent.com/peditx/EZpasswall/refs/heads/main/ezp.sh && chmod -X ezp.sh && sh ezp.sh
+rm -f ezp.sh && wget https://raw.githubusercontent.com/Ali1352mn/EZpasswall/refs/heads/main/ezp.sh && sh ezp.sh
 
 ```
 
